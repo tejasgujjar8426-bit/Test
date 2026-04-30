@@ -9,7 +9,6 @@ const events = [
     title: "Senior Fullstack Developer",
     company: "Freelance / Projects",
     description: "Building high-end web applications and Discord bots for global clients.",
-    icon: Rocket,
     color: "bg-purple-500",
   },
   {
@@ -17,7 +16,6 @@ const events = [
     title: "UI/UX Designer & Dev",
     company: "Creative Agency",
     description: "Focused on bridging the gap between design and scalable engineering.",
-    icon: Briefcase,
     color: "bg-blue-500",
   },
   {
@@ -25,7 +23,6 @@ const events = [
     title: "Computer Science Degree",
     company: "University of Tech",
     description: "Mastered the fundamentals of algorithms, data structures, and web technologies.",
-    icon: GraduationCap,
     color: "bg-pink-500",
   },
 ];
