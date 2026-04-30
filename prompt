@@ -1,0 +1,136 @@
+Build a world-class, highly creative, ultra-smooth developer portfolio using Next.js (latest stable, App Router), React, TypeScript, Tailwind CSS, Framer Motion, and ShadCN UI.
+
+This should NOT feel like a template. It must feel like a hand-crafted, human-designed, premium experience that stands out instantly.
+
+🎯 Core Vision
+
+Create a portfolio that feels like:
+
+A developer’s mind + design notebook + product showcase, merged into a fluid interactive experience
+
+It should be:
+
+Minimal but expressive
+Creative but not messy
+Smooth but not heavy
+Unique but still professional
+🎨 Design Language (VERY IMPORTANT)
+Base style: clean + creative + slightly experimental
+Blend of:
+Sketch / dotted paper accents
+Modern SaaS UI cleanliness
+Subtle glass / depth effects
+Visual Identity:
+Background: soft off-white or dark mode with grain
+Add subtle:
+dotted grids
+noise texture
+paper-like layers
+Accent colors: red, black, white + subtle highlight tones
+Use intentional whitespace (no clutter)
+✨ Animation System (THIS DEFINES QUALITY)
+
+Use Framer Motion everywhere — but professionally:
+
+Must include:
+Smooth page transitions (no jank)
+Staggered text reveals
+Scroll-triggered animations
+Magnetic hover effects
+Smooth parallax (light, not distracting)
+Micro-interactions on every clickable element
+Advanced:
+Elements that feel “alive”
+Subtle draw-in / sketch animations
+Cursor-based interactions (optional but clean)
+
+⚠️ Avoid:
+
+Over-animation
+Laggy effects
+Gimmicks
+🧠 Sections (Structure + Creativity)
+1. Hero Section
+Strong first impression
+Animated intro text (not basic typing)
+Unique tagline
+Creative CTA
+Possibly interactive background
+2. About Section
+Styled like a designed card / paper
+Slight asymmetry for personality
+Short, impactful content
+3. Projects Section (MOST IMPORTANT)
+Premium grid layout
+Each project card:
+Has depth
+Hover = transform + reveal
+On click:
+Smooth modal or page transition
+Include:
+Tech stack
+Description
+Live/demo links
+4. Skills Section
+DO NOT use boring progress bars
+Use creative formats:
+floating tags
+grouped tech stacks
+visual clusters
+5. Experience / Timeline (Optional but premium)
+Clean vertical timeline
+Smooth reveal animations
+6. Contact Section
+Clean, minimal, elegant
+Styled like a note or form sheet
+Smooth input focus animations
+⚙️ Admin Panel (Smart but Lightweight)
+
+Create a simple internal admin system:
+
+Features:
+
+Add/Edit/Delete projects
+Update content (hero, about, etc.)
+
+Tech options:
+
+Local JSON / file-based CMS OR simple backend
+Clean UI (same design language)
+🧱 Tech Requirements
+Next.js (App Router)
+TypeScript (strict mode)
+Tailwind CSS
+Framer Motion
+ShadCN UI
+Fully responsive (mobile must feel premium too)
+Optimized for Vercel deployment
+💎 Premium Details (DIFFERENCE MAKER)
+Subtle grain/noise overlay
+Smooth scrolling (no jitter)
+Creative loading screen (short + elegant)
+Smart use of shadows and depth
+Perfect spacing & alignment
+Accessibility basics (keyboard + contrast)
+📁 Code Quality (VERY IMPORTANT)
+Clean folder structure
+Reusable components
+No unused imports / errors
+Optimized images & assets
+Maintainable code (like a real dev project)
+🚫 STRICT RULES
+No generic UI
+No copied layouts
+No messy animations
+No overdesign
+No lag
+🎯 End Goal
+
+The final result should feel like:
+
+A portfolio that makes other developers pause and inspect it
+
+It should look like it was built by:
+
+A top frontend engineer
+With a strong sense of design and motion

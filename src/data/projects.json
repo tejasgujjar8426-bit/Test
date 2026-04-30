@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "NEO-DASH",
+    "category": "SaaS Dashboard",
+    "image": "https://images.unsplash.com/photo-1551288049-bbda38a594a0?auto=format&fit=crop&q=80&w=800",
+    "color": "#e11d48",
+    "description": "A high-performance dashboard for modern enterprise applications."
+  },
+  {
+    "id": "2",
+    "title": "VOID-OS",
+    "category": "Experimental UI",
+    "image": "https://images.unsplash.com/photo-1614850523296-e8c1d473c72f?auto=format&fit=crop&q=80&w=800",
+    "color": "#000000",
+    "description": "An experimental operating system interface focused on minimalist aesthetics."
+  }
+]
