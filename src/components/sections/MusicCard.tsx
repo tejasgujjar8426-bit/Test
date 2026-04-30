@@ -5,9 +5,9 @@ import { motion } from "framer-motion";
 import { Play, Pause, SkipBack, SkipForward, Volume2, Music2 } from "lucide-react";
 import { useState, useRef, useEffect } from "react";
 
-const DISCORD_ID = "1041617483641323520"; // Replace with your Discord ID
-
+const DISCORD_ID = "1041617483641323520";
 export const MusicCard = () => {
+  const SAMPLE_SONG = "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3";
   const [isPlaying, setIsPlaying] = useState(false);
   const [progress, setProgress] = useState(0);
   const [lanyardData, setLanyardData] = useState<any>(null);
