@@ -55,7 +55,7 @@ export const Skills = () => {
             >
               <div className="glass-card px-10 py-8 rounded-[2.5rem] border border-black/5 shadow-lg flex flex-col items-center gap-4 min-w-[180px] bg-white transition-all duration-300 hover:shadow-2xl hover:border-purple-600/20">
                 <div className={`p-4 rounded-2xl bg-black/5 ${skill.color} group-hover:scale-110 transition-transform duration-300`}>
-                  <skill.icon size={32} />
+                  <skill.icon />
                 </div>
                 
                 <div className="text-center">
