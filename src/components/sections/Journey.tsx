@@ -2,42 +2,24 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import { 
-  Rocket, 
-  Briefcase, 
-  GraduationCap,
-  Code2, 
-  Globe, 
-  Terminal, 
-  Wind, 
-  Zap, 
-  Cpu,
-  Layers,
-  Palette,
-  Database,
-  Smartphone
-} from "lucide-react";
 
 const events = [
   {
     date: "2024 - Present",
     title: "Senior Dev",
     company: "Freelance",
-    icon: Rocket,
     color: "bg-purple-500",
   },
   {
     date: "2022 - 2023",
     title: "UI Designer",
     company: "Agency",
-    icon: Briefcase,
     color: "bg-blue-500",
   },
   {
     date: "2020 - 2022",
     title: "CS Degree",
     company: "University",
-    icon: GraduationCap,
     color: "bg-pink-500",
   },
 ];
